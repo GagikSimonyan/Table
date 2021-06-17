@@ -1,0 +1,82 @@
+{
+  "interns": [
+    {
+      "id": 1,
+      "name": "Ashot",
+      "surname": "Sargsyan",
+      "email": "ashotsargsyan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Eduard",
+      "surname": "Manukyan",
+      "email": "eduardmanukyan@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Emilia",
+      "surname": "Babajanyan",
+      "email": "emiliababajanyan@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Frunz",
+      "surname": "Grigoryan",
+      "email": "frunzgrigoryan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Gago",
+      "surname": "Simonyan",
+      "email": "gago.simonyan@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Ghevond",
+      "surname": "Tunyan",
+      "email": "ghevondtunyan@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Gor",
+      "surname": "Melqonyan",
+      "email": "gormelqonyan@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Hovhannes",
+      "surname": "Petrosyan",
+      "email": "hovhannespetrosyan@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Koryun",
+      "surname": "Boksyan",
+      "email": "koryunboksyan@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Manuk",
+      "surname": "Manukyan",
+      "email": "manukmanukyan@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Meliq",
+      "surname": "Grigoryan",
+      "email": "meliqgrigoryan@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Nare",
+      "surname": "Khachatryan",
+      "email": "narekhachatryan@gmail.com"
+    },
+    {
+      "id": 13,
+      "name": "Robert",
+      "surname": "Hovhannisyan",
+      "email": "roberthovhannisyan@gmail.com"
+    }
+  ]
+}
