@@ -72,12 +72,15 @@ button:hover{
   min-height: 400px;
   background-color: #beb8b8;
   padding: 38px 40px;
+}
+
+.form {
   margin: 20px auto;
   display: flex;
   flex-direction: column;
 }
 
-input, .cancel, .save{
+.form input, .cancel, .save{
   height: 50px;
   border-radius: 5px;
   background-color: #fff;
